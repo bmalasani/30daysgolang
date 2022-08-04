@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/nanimalasani/Code/go/30daysgolang'
+make: Leaving directory `/Users/nanimalasani/Code/go/30daysgolang'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
